@@ -2,6 +2,8 @@
 
 Winner Project of HackZurich for the "4D buildings" challenge by Siemens
 
+![This is us winning](https://github.com/hackzurich-2022/OutOfTheBlue/blob/main/ClosingCeremony_HackZurich-24%20(2).jpg)
+
 ## Inspiration
 
 Software can make people's life easier, but sometimes it can even save their lives. 
